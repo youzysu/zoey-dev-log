@@ -4,6 +4,8 @@
 
 ## 🖥 Computer Architecture
 
+* [진법과 코드](computer-architecture/undefined.md)
+* [메모리 구조](computer-architecture/undefined-1.md)
 * [CPU](computer-architecture/cpu.md)
 * [Process Memory](computer-architecture/process-memory.md)
 
@@ -32,6 +34,12 @@
   * [Two Sum](algorithms-and-data-structure/leetcode/two-sum.md)
 * [programmers](algorithms-and-data-structure/programmers.md)
 
+## 🏠 HTML
+
+## 🐱 Git & Github
+
+* [브랜치 생성 및 Fork 진행하기](git-and-github/fork.md)
+
 ## 🔎 Project
 
 * [PC방 좌석 관리 프로그램](project/pc.md)
@@ -41,6 +49,8 @@
 * [📙 모던 자바스크립트 Deep Dive](reading-and-lecture/deep-dive.md)
 * [🌐 그림으로 배우는 HTTP & Network](reading-and-lecture/http-and-network.md)
 * [🧮 JavaScript Algorithm and Data Strunctures Master Class](reading-and-lecture/javascript-algorithm-and-data-strunctures-master-class.md)
+* [🏠 Page 1](reading-and-lecture/page-1.md)
+* [WAI-ARIA: Authoring Practices Guide](reading-and-lecture/wai-aria-authoring-practices-guide.md)
 
 ## ✏ zoey log
 
@@ -54,4 +64,5 @@
 * [Tech](zoey-bookmark/tech.md)
 * [Business](zoey-bookmark/business.md)
 * [Life](zoey-bookmark/life.md)
-* [Mind](zoey-bookmark/mind.md)
+* [Mind](zoey-bookmark/mind/README.md)
+  * [개발 배우기가 정말 어려운 이유](zoey-bookmark/mind/undefined.md)
