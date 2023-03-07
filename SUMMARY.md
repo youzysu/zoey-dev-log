@@ -49,13 +49,14 @@
 * [📙 모던 자바스크립트 Deep Dive](reading-and-lecture/deep-dive.md)
 * [🌐 그림으로 배우는 HTTP & Network](reading-and-lecture/http-and-network.md)
 * [🧮 JavaScript Algorithm and Data Strunctures Master Class](reading-and-lecture/javascript-algorithm-and-data-strunctures-master-class.md)
-* [🏠 Page 1](reading-and-lecture/page-1.md)
+* [🏠 초보자를 위한 HTML & CSS 동작과 원리](reading-and-lecture/html-and-css.md)
 * [WAI-ARIA: Authoring Practices Guide](reading-and-lecture/wai-aria-authoring-practices-guide.md)
 
 ## ✏ zoey log
 
 * [2023년 3월 2주차](zoey-log/2023-3-2/README.md)
   * [2023.03.06.(월)](zoey-log/2023-3-2/2023.03.06..md)
+  * [2023.03.07.(화)](zoey-log/2023-3-2/2023.03.07..md)
 * [🗃 회고 모음집](zoey-log/undefined/README.md)
   * [코드스쿼드 2023 마스터즈 CS16 회고](zoey-log/undefined/2023-cs16.md)
 
