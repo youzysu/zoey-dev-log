@@ -49,8 +49,6 @@
 * [📙 모던 자바스크립트 Deep Dive](reading-and-lecture/deep-dive.md)
 * [🌐 그림으로 배우는 HTTP & Network](reading-and-lecture/http-and-network.md)
 * [🧮 JavaScript Algorithm and Data Strunctures Master Class](reading-and-lecture/javascript-algorithm-and-data-strunctures-master-class.md)
-* [🏠 초보자를 위한 HTML & CSS 동작과 원리](reading-and-lecture/html-and-css.md)
-* [WAI-ARIA: Authoring Practices Guide](reading-and-lecture/wai-aria-authoring-practices-guide.md)
 
 ## ✏ zoey log
 
