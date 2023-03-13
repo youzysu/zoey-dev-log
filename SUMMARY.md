@@ -46,17 +46,22 @@
 
 ## 📖 reading & Lecture
 
+* [🐩 코드스피츠](reading-and-lecture/undefined/README.md)
+  * [ES6+ 기초편](reading-and-lecture/undefined/es6+.md)
 * [📙 모던 자바스크립트 Deep Dive](reading-and-lecture/deep-dive.md)
 * [🌐 그림으로 배우는 HTTP & Network](reading-and-lecture/http-and-network.md)
 * [🧮 JavaScript Algorithm and Data Strunctures Master Class](reading-and-lecture/javascript-algorithm-and-data-strunctures-master-class.md)
 
 ## ✏ zoey log
 
+* [2023년 3월 3주차](zoey-log/2023-3-3/README.md)
+  * [2023.03.13.(월)](zoey-log/2023-3-3/2023.03.13..md)
 * [2023년 3월 2주차](zoey-log/2023-3-2/README.md)
   * [2023.03.06.(월)](zoey-log/2023-3-2/2023.03.06..md)
   * [2023.03.07.(화)](zoey-log/2023-3-2/2023.03.07..md)
   * [2023.03.08.(수)](zoey-log/2023-3-2/2023.03.08..md)
   * [2023.03.09.(목)](zoey-log/2023-3-2/2023.03.09..md)
+  * [2023.03.10.(금)](zoey-log/2023-3-2/2023.03.10..md)
 * [🗃 회고 모음집](zoey-log/undefined/README.md)
   * [코드스쿼드 2023 마스터즈 CS16 회고](zoey-log/undefined/2023-cs16.md)
 
